@@ -48,6 +48,18 @@ mdtohtml/
 
 ---
 
+## 🧰 Tech Stack
+
+* **Language:** Nim
+* **Modules:** `os`, `strutils`, `re`
+* **Type:** CLI Static Site Generator
+* **Parser:** Custom Markdown → HTML parser
+* **Output:** Static HTML + CSS
+* **Preview:** Python `http.server`
+* **Version Control:** Git & GitHub
+
+---
+
 # ⚙️ How It Works
 
 ### Step 1 — Write Markdown
